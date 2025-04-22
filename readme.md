@@ -2,7 +2,7 @@
 
 ### genaral project discribtion 
 
-<img align="right" src="https://raw.githubusercontent.com/Oscar-git97/AttendanceManager_AdminWeb/resources/Techno_choice.jpg" alt="choice of technologies used" width="400"/>
+<img align="right" src="https://github.com/Oscar-git97/AttendanceManager_AdminWeb/blob/7eda8eff977d4a42857a3e7f61ea0dfc4b348fef/resources/Techno_choice.jpg" alt="choice of technologies used" width="400"/>
 
 This ***Server*** is part of a full stack project. The servlet, mobile app and database can all be found in the following repositories:
 - [Typescript - admin dashboard](https://github.com/Oscar-git97/AttendanceManager_AdminWeb)
