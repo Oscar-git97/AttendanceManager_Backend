@@ -6,7 +6,7 @@
 
 This ***Server*** is part of a full stack project. The servlet, mobile app and database can all be found in the following repositories:
 - [Typescript - admin dashboard](https://github.com/Oscar-git97/AttendanceManager_AdminWeb)
-- [Kotlin mobile app]()
+- [Kotlin - mobile app]()
 </br>
 
 The picture on the right gives an overview of the technologies used to create this application.
