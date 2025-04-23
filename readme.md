@@ -4,9 +4,10 @@
 
 <img align="right" src="https://github.com/Oscar-git97/AttendanceManager_AdminWeb/blob/7eda8eff977d4a42857a3e7f61ea0dfc4b348fef/resources/Techno_choice.jpg" alt="choice of technologies used" width="400"/>
 
-This ***Server*** is part of a full stack project. The servlet, mobile app and database can all be found in the following repositories:
+This ***Server*** is part of a full stack project. The admin dashboard, mobile app and database can all be found in the following repositories:
 - [Typescript - admin dashboard](https://github.com/Oscar-git97/AttendanceManager_AdminWeb)
 - [Kotlin - mobile app]()
+- [MySql - database]()
 </br>
 
 The picture on the right gives an overview of the technologies used to create this application.
